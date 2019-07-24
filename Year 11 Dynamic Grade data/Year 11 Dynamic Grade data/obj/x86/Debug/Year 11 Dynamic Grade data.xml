@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Year11DynamicGradedata
+</name>
+</assembly>
+<members>
+<member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.ClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.Dataset_IDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.GradeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.GradeTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.LevelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.StudentGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.TeacherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.TeachesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.UserLoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.ClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.Dataset_IDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.GradeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.GradeTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.LevelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.StudentGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.TeacherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.TeachesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.UserLoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.ClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.Dataset_IDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.GradeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.GradeTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.LevelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.StudentGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.TeacherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.TeachesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet.UserLoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.ClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.Dataset_IDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.GradeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.GradeTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.LevelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.StudentGroupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TeacherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TeachesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.UserLoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Year_11_Dynamic_Grade_data._dn_lsingletonDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Year_11_Dynamic_Grade_data._dn_lsingletonDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Year_11_Dynamic_Grade_data._dn_lsingletonDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.UpdateAll(Year_11_Dynamic_Grade_data._dn_lsingletonDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data._dn_lsingletonDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Year_11_Dynamic_Grade_data.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Year_11_Dynamic_Grade_data.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Year_11_Dynamic_Grade_data.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
