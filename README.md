@@ -8,4 +8,4 @@ Please refer to the "Year 11 Dynamic Data" pdf file for the following project re
 - Systems Maintenance
 - Testing
 - Appraisal
-- User Manual
+- User Manual (contains installation instructions)
